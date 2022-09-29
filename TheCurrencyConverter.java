@@ -69,7 +69,7 @@ public class TheCurrencyConverter extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(114, 241, 249));
 
         jLabel1.setFont(new java.awt.Font("Nimbus Mono PS", 1, 24)); // NOI18N
-        jLabel1.setText("--Welcome to Curency Converter--");
+        jLabel1.setText("--Welcome to Currency Converter--");
 
         secondCountry.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
         secondCountry.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Choose one...", "India", "USA", "Nigeria", "Brazil", "Canada", "Kenya", "Indonesia", "Philippine" }));
