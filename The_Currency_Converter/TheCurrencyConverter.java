@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author vaibhavi
+ * @author vaibhavi channe
  */
 public class TheCurrencyConverter extends javax.swing.JFrame {
 
